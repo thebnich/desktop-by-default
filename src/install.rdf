@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>desktopbydefault@bnicholson.mozilla.org</em:id>
+        <em:type>2</em:type>
+        <em:name>Desktop by Default</em:name>
+        <em:version>1.1</em:version>
+        <em:bootstrap>true</em:bootstrap>
+        <em:description>Enables "Request Desktop Site" by default</em:description>
+        <em:creator>Brian Nicholson</em:creator>
+        <em:iconURL>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAACN1PRVAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowQTgwMTE3NDA3MjA2ODExODA4M0NCRkNERDMyRkI1MCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2NzNFMkI5RkJGQUYxMUUxQTIxOEQ0RkJGQzY1NzgzNiIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2NzNFMkI5RUJGQUYxMUUxQTIxOEQ0RkJGQzY1NzgzNiIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDg4MDExNzQwNzIwNjgxMThDMTQ4RDkxRDA5QTY0QUIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MEE4MDExNzQwNzIwNjgxMTgwODNDQkZDREQzMkZCNTAiLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz7xIHlMAAABnElEQVR42tRWv0vDQBS%2Bu14KjcQuznYSwdFRXBRxUJzEyU3s6CT%2BFc4iiKsOUnF3cRH%2FBWc7O2ltmzS553uQlCvtXWJ7DfjgS%2B5H%2BL57713uHQcAVpbJk%2BbZMb6vEcEcdb4QTckArjKhTuebqSRxpsCFYEGwSE163EgMYz2bTOLYqTuAC9fSVBcKFBuCwdpj644TsD0TUo6Gzi9IOcNT6%2F59uCptfBqQIV9bH5Og1OQQGMb%2FHEqNRyrD1nf1S%2Bj8JXtmIFWuPCsk5sizUTEwhBEciWk8lpxBmTlT%2Fz1nBlLfX3AuJqiTYf%2FgcFX%2FaBaQId9K1k%2FwUObbO3vgeVXGOZ9bMaPTaBBFTEZh2EPUSijUHapn59i4RFiTVPP9id7Tqnvdbp7QD%2BKCmw7cjc2tUbGaRaw3Lvb2%2BjJ%2BBynyM6b9D1RbniDWxrlGoQtPXmmQ0mOVimBgKTtetYq7TbE4HkwnxlJiCp0QFWt9o3lFx1tOpZC27UoWhf3TKGS72FwyfErjD4hnxO1MYmjriCMLh5%2FOf%2BZe7cq8Ef8KMACb35hcCIc%2FgQAAAABJRU5ErkJggg%3D%3D</em:iconURL>
+
+        <!-- Mobile -->
+        <em:targetApplication>
+            <Description>
+                <em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+                <em:minVersion>14.0</em:minVersion>
+                <em:maxVersion>20.0a1</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+    </Description>
+</RDF>
