@@ -1,3 +1,5 @@
+> ### Note: This extension is no longer available as of Firefox 57. See [this issue](https://github.com/thebnich/desktop-by-default/issues/1) for more details.
+
 Desktop by Default
 ==================
 
